@@ -1,7 +1,3 @@
-# FetalHealthRiskAssessment-SHAP
-An explainable AI-based system for fetal health classification using CTG data with real-time prediction, SHAP interpretability, and clinical report generation.
-
-
 # 🤰 Fetal Health Prediction using Explainable AI
 
 An end-to-end machine learning system for fetal health classification using Cardiotocography (CTG) data, enhanced with SHAP-based explainability, real-time dashboard visualization, and automated clinical reporting.
