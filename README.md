@@ -25,7 +25,7 @@ Unlike traditional models, it focuses not only on prediction accuracy but also o
 
 ## 🏗️ System Architecture
 
-![System Architecture]([architecture diagram.PNG](https://github.com/MinnaFathima/FetalHealthRiskAssessment-SHAP/blob/378bf2fb371a6b54f8925f6a7768acf92c86fd0f/architecture%20diagram.PNG))
+([architecture diagram.PNG](https://github.com/MinnaFathima/FetalHealthRiskAssessment-SHAP/blob/378bf2fb371a6b54f8925f6a7768acf92c86fd0f/architecture%20diagram.PNG))
 
 ### 🔍 Workflow Summary
 
