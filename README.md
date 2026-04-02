@@ -25,7 +25,7 @@ Unlike traditional models, it focuses not only on prediction accuracy but also o
 
 ## 🏗️ System Architecture
 
-![System Architecture](images/architecture.png)
+![System Architecture](architecture diagram.PNG)
 
 ### 🔍 Workflow Summary
 
